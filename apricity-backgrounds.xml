@@ -2,6 +2,13 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
 	<wallpaper deleted="false">
+		<name>Japanese Lake</name>
+		<filename>/usr/share/backgrounds/gnome/japanese-lake.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
 		<name>Tahoe</name>
 		<filename>/usr/share/backgrounds/gnome/tahoe.jpg</filename>
 		<options>zoom</options>
